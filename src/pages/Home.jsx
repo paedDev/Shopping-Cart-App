@@ -29,7 +29,7 @@ const Home = () => {
             height={"120"}
             color="rgb(127,29,29)"
             width={"120"}
-            visible={true}
+            visible={"true"}
           />
         </div>
       ) : (
